@@ -1,0 +1,45 @@
+<?php include_once("inc/templates/header.php");?>
+
+
+
+<!-- Navigation -->
+<?php include_once("inc/templates/header.php");?>
+<!-- Page Content -->
+<div class="container">
+    <div class = "row">
+        <div class="col-lg-12">
+
+            <h2 class="page-header">
+                <img src="assets/Camaya_Coast_Logo_v1.gif"
+                     alt="Camaya Coast" id="logo" data-height-percentage="100" width="150" />
+                <div class = "logo-title" style = "padding-top: 1px">Camaya Coast Hotel And Resort</div>
+            </h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="container">
+            <a href="https://www.youtube.com/watch?v=jBiAKYH79pI" data-toggle="lightbox" data-gallery="youtubevideos" class="col-sm-4">
+                <img src="https://i.ytimg.com/vi/jBiAKYH79pI/mqdefault.jpg" class="img-fluid">
+            </a>
+            <a href="https://www.youtube.com/watch?v=_cmIqx8721A" data-toggle="lightbox" data-gallery="youtubevideos" class="col-sm-4">
+                <img src="https://i.ytimg.com/vi/PVCCDTI3qc0/mqdefault.jpg" class="img-fluid">
+            </a>
+            <a href="https://www.youtube.com/watch?v=bBkDsc5Nzz8" data-toggle="lightbox" data-gallery="youtubevideos" class="col-sm-4">
+                <img src="https://i.ytimg.com/vi/bBkDsc5Nzz8/mqdefault.jpg" class="img-fluid">
+            </a>
+        </div>
+
+    </div>
+
+
+
+    <!-- Footer -->
+
+    <!-- /.container -->
+</div>
+
+<!-- jQuery -->
+<?php include_once("inc/scripts.php");?>
+
+<!--footer-->
+<?php include_once("inc/templates/footer.php");?>

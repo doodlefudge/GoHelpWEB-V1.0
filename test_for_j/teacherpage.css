@@ -1,0 +1,60 @@
+fieldset{
+
+	width: 80%;
+	border-top: 50%;
+	margin-top: 10%;
+
+}
+
+ul {;
+	list-style-type: none;
+	list-style-position:outside;
+	margin: 0;
+	padding: 0;
+}
+a:link
+{
+	margin-top: 1%;
+	display: block;
+	background-color: #00BFFF;
+	width: 140px; 	
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 5px;
+	border-radius: 3px;
+	margin-right: 5px;
+}
+a:hover,a:active
+{
+	background-color: blue;
+}
+
+li
+{
+}
+
+.headboard{		
+		position: absolute;
+		background-color:#041421;
+		top: -1%;
+		border: 0;
+		left: 0%;
+		right: 0%;
+		opacity: .8;
+		
+	}
+	
+
+html{
+ 	background-repeat: no-repeat;
+    background-size: 100% 100%;
+	background-image:url("regbackground.jpg");
+	width: 100%;
+	height: 100%;
+}
+.about{
+	float : left;
+}

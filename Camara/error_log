@@ -1,0 +1,18 @@
+[02-Jan-2017 11:36:57 UTC] PHP Warning:  include_once(inc/templates/header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 1
+[02-Jan-2017 11:36:57 UTC] PHP Warning:  include_once(): Failed opening 'inc/templates/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 1
+[02-Jan-2017 11:36:57 UTC] PHP Warning:  include_once(inc/scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 17
+[02-Jan-2017 11:36:57 UTC] PHP Warning:  include_once(): Failed opening 'inc/scripts.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 17
+[02-Jan-2017 11:36:57 UTC] PHP Warning:  include_once(inc/templates/footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 20
+[02-Jan-2017 11:36:57 UTC] PHP Warning:  include_once(): Failed opening 'inc/templates/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 20
+[02-Jan-2017 11:37:50 UTC] PHP Warning:  include_once(inc/templates/header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 1
+[02-Jan-2017 11:37:50 UTC] PHP Warning:  include_once(): Failed opening 'inc/templates/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 1
+[02-Jan-2017 11:37:50 UTC] PHP Warning:  include_once(inc/scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 157
+[02-Jan-2017 11:37:50 UTC] PHP Warning:  include_once(): Failed opening 'inc/scripts.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 157
+[02-Jan-2017 11:37:50 UTC] PHP Warning:  include_once(inc/templates/footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 160
+[02-Jan-2017 11:37:50 UTC] PHP Warning:  include_once(): Failed opening 'inc/templates/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 160
+[02-Jan-2017 11:38:58 UTC] PHP Warning:  include_once(inc/templates/header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 1
+[02-Jan-2017 11:38:58 UTC] PHP Warning:  include_once(): Failed opening 'inc/templates/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 1
+[02-Jan-2017 11:38:58 UTC] PHP Warning:  include_once(inc/scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 157
+[02-Jan-2017 11:38:58 UTC] PHP Warning:  include_once(): Failed opening 'inc/scripts.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 157
+[02-Jan-2017 11:38:58 UTC] PHP Warning:  include_once(inc/templates/footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/testing/index.php on line 160
+[02-Jan-2017 11:38:58 UTC] PHP Warning:  include_once(): Failed opening 'inc/templates/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/camayaco/public_html/testing/index.php on line 160

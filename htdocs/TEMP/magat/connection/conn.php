@@ -1,0 +1,5 @@
+<?php
+include('simple_html_dom.php');
+$conn = mysql_connect("localhost","root","");
+mysql_select_db("db_ict_31");
+?>

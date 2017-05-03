@@ -1,0 +1,569 @@
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 2
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 2
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[22-Feb-2017 06:51:05 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[22-Feb-2017 06:51:05 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[22-Feb-2017 06:51:05 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[22-Feb-2017 06:51:05 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[22-Feb-2017 06:51:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/worker_declined_confirmations.php:46
+Stack trace:
+#0 /home/camayaco/public_html/admin/worker_declined_confirmations.php(46): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 2
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 2
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[22-Feb-2017 08:14:20 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[22-Feb-2017 08:14:20 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[22-Feb-2017 08:14:20 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[22-Feb-2017 08:14:20 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[22-Feb-2017 08:14:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/request_confirmation.php:46
+Stack trace:
+#0 /home/camayaco/public_html/admin/request_confirmation.php(46): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:27:15 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:27:15 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:27:15 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:27:15 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:27:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/add_service.php:77
+Stack trace:
+#0 /home/camayaco/public_html/admin/add_service.php(77): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:28:00 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:28:00 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:28:00 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:28:00 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:28:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/add_service.php:77
+Stack trace:
+#0 /home/camayaco/public_html/admin/add_service.php(77): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:31 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:31 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:31 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:31 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/add_service.php:77
+Stack trace:
+#0 /home/camayaco/public_html/admin/add_service.php(77): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:33 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:33 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:33 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:33 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/add_service.php:77
+Stack trace:
+#0 /home/camayaco/public_html/admin/add_service.php(77): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:53 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:30:53 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:53 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:53 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:30:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/add_service.php:77
+Stack trace:
+#0 /home/camayaco/public_html/admin/add_service.php(77): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 2
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 45
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 48
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:32:03 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service.php on line 50
+[22-Feb-2017 08:32:03 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:32:03 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:32:03 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 08:32:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/add_service.php:77
+Stack trace:
+#0 /home/camayaco/public_html/admin/add_service.php(77): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 16:37:31 Asia/Manila] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 16:37:31 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'camayaco_root'@'pisces.zoom.ph' (using password: NO)' in /home/camayaco/public_html/admin/add_service.php:77
+Stack trace:
+#0 /home/camayaco/public_html/admin/add_service.php(77): PDO->__construct('mysql:host=68.2...', 'camayaco_root', NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 16:38:28 Asia/Manila] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service.php on line 77
+[22-Feb-2017 16:38:28 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'camayaco_root'@'pisces.zoom.ph' (using password: NO)' in /home/camayaco/public_html/admin/add_service.php:77
+Stack trace:
+#0 /home/camayaco/public_html/admin/add_service.php(77): PDO->__construct('mysql:host=68.2...', 'camayaco_root', NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/add_service.php on line 77
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(assets\navbar\scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:18:01 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(assets\navbar\scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:18:39 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 54
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\footer.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 99
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(assets\navbar\scripts.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:25:03 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 102
+[23-Feb-2017 02:27:40 UTC] PHP Warning:  include(/home/camayaco/public_html/adminassets/navbar/include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:27:40 UTC] PHP Warning:  include(): Failed opening '/home/camayaco/public_html/adminassets/navbar/include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 49
+[23-Feb-2017 02:27:40 UTC] PHP Warning:  include(/home/camayaco/public_html/adminassets/navbar/header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 02:27:40 UTC] PHP Warning:  include(): Failed opening '/home/camayaco/public_html/adminassets/navbar/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 10:28:53 Asia/Manila] PHP Warning:  include(/home/camayaco/public_html/adminassets/navbar/header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 10:28:53 Asia/Manila] PHP Warning:  include(): Failed opening '/home/camayaco/public_html/adminassets/navbar/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 10:29:57 Asia/Manila] PHP Warning:  include(/home/camayaco/public_html/adminassets/navbar/header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 10:29:57 Asia/Manila] PHP Warning:  include(): Failed opening '/home/camayaco/public_html/adminassets/navbar/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 52
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 2
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 2
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[23-Feb-2017 03:23:00 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[23-Feb-2017 03:23:00 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[23-Feb-2017 03:23:00 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[23-Feb-2017 03:23:00 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[23-Feb-2017 03:23:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/worker_declined_confirmations.php:46
+Stack trace:
+#0 /home/camayaco/public_html/admin/worker_declined_confirmations.php(46): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 2
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 2
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[23-Feb-2017 09:22:04 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[23-Feb-2017 09:22:04 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[23-Feb-2017 09:22:04 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[23-Feb-2017 09:22:04 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[23-Feb-2017 09:22:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/request_confirmation.php:46
+Stack trace:
+#0 /home/camayaco/public_html/admin/request_confirmation.php(46): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[23-Feb-2017 17:50:44 Asia/Manila] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service_category.php on line 6
+[23-Feb-2017 17:51:25 Asia/Manila] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service_category.php on line 13
+[23-Feb-2017 17:51:42 Asia/Manila] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/add_service_category.php on line 19
+[23-Feb-2017 17:52:08 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/add_service_category.php on line 33
+[23-Feb-2017 17:52:08 Asia/Manila] PHP Notice:  Undefined index: sec_info in /home/camayaco/public_html/admin/add_service_category.php on line 34
+[23-Feb-2017 09:57:12 UTC] PHP Warning:  include_once(/assets/connection/connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 09:57:12 UTC] PHP Warning:  include_once(): Failed opening '/assets/connection/connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 09:57:12 UTC] PHP Notice:  Undefined variable: pdo in /home/camayaco/public_html/admin/add_service_category.php on line 7
+[23-Feb-2017 09:57:12 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/camayaco/public_html/admin/add_service_category.php on line 7
+[23-Feb-2017 09:57:16 UTC] PHP Warning:  include_once(/assets/connection/connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 09:57:16 UTC] PHP Warning:  include_once(): Failed opening '/assets/connection/connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 09:57:36 UTC] PHP Warning:  include_once(/assets/connection/connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 09:57:36 UTC] PHP Warning:  include_once(): Failed opening '/assets/connection/connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/add_service_category.php on line 4
+[23-Feb-2017 09:57:36 UTC] PHP Notice:  Undefined variable: pdo in /home/camayaco/public_html/admin/add_service_category.php on line 7
+[23-Feb-2017 09:57:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/camayaco/public_html/admin/add_service_category.php on line 7
+[24-Feb-2017 00:12:40 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 2
+[24-Feb-2017 00:12:40 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/service_monitoring.php on line 2
+[24-Feb-2017 00:12:40 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[24-Feb-2017 00:12:40 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[24-Feb-2017 00:12:40 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 8
+[24-Feb-2017 00:12:44 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 8
+[24-Feb-2017 00:12:44 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/service_monitoring.php on line 8
+[24-Feb-2017 00:12:44 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 11
+[24-Feb-2017 00:12:44 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 11
+[24-Feb-2017 00:12:44 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/service_monitoring.php on line 11
+[24-Feb-2017 00:12:44 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 13
+[24-Feb-2017 00:12:44 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 13
+[24-Feb-2017 00:12:44 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/service_monitoring.php on line 13
+[24-Feb-2017 00:12:44 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/service_monitoring.php on line 47
+[24-Feb-2017 00:12:44 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/service_monitoring.php on line 47
+[24-Feb-2017 00:12:44 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/service_monitoring.php on line 47
+[24-Feb-2017 00:12:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/service_monitoring.php:47
+Stack trace:
+#0 /home/camayaco/public_html/admin/service_monitoring.php(47): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/service_monitoring.php on line 47
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 2
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/service_monitoring.php on line 2
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 8
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 8
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/service_monitoring.php on line 8
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 11
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 11
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/service_monitoring.php on line 11
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 13
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/service_monitoring.php on line 13
+[24-Feb-2017 02:56:38 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/service_monitoring.php on line 13
+[24-Feb-2017 02:56:38 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/service_monitoring.php on line 47
+[24-Feb-2017 02:56:38 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/service_monitoring.php on line 47
+[24-Feb-2017 02:56:38 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/service_monitoring.php on line 47
+[24-Feb-2017 02:56:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/service_monitoring.php:47
+Stack trace:
+#0 /home/camayaco/public_html/admin/service_monitoring.php(47): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/service_monitoring.php on line 47
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/customer_view.php on line 2
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/customer_view.php on line 2
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/customer_view.php on line 8
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/customer_view.php on line 8
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/customer_view.php on line 8
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/customer_view.php on line 11
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/customer_view.php on line 11
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/customer_view.php on line 11
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/customer_view.php on line 13
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/customer_view.php on line 13
+[28-Feb-2017 10:29:53 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/customer_view.php on line 13
+[28-Feb-2017 10:29:53 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/customer_view.php on line 50
+[28-Feb-2017 10:29:53 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/customer_view.php on line 50
+[28-Feb-2017 10:29:53 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/customer_view.php on line 50
+[28-Feb-2017 10:29:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/customer_view.php:50
+Stack trace:
+#0 /home/camayaco/public_html/admin/customer_view.php(50): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/customer_view.php on line 50
+[16-Mar-2017 09:19:56 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[16-Mar-2017 09:20:02 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[17-Mar-2017 08:22:38 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service_category.php on line 84
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 76
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 79
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: type_description in /home/camayaco/public_html/admin/edit_account.php on line 85
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_account.php on line 87
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 91
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: person_minimum in /home/camayaco/public_html/admin/edit_account.php on line 91
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 96
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: person_maximum in /home/camayaco/public_html/admin/edit_account.php on line 96
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 101
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/edit_account.php on line 101
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 106
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_sec_info in /home/camayaco/public_html/admin/edit_account.php on line 106
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 111
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 119
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 126
+[17-Mar-2017 08:22:57 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 134
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 76
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 79
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: type_description in /home/camayaco/public_html/admin/edit_account.php on line 85
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_account.php on line 87
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 91
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: person_minimum in /home/camayaco/public_html/admin/edit_account.php on line 91
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 96
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: person_maximum in /home/camayaco/public_html/admin/edit_account.php on line 96
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 101
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/edit_account.php on line 101
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 106
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_sec_info in /home/camayaco/public_html/admin/edit_account.php on line 106
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 111
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 119
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 126
+[17-Mar-2017 08:23:37 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 134
+[21-Mar-2017 15:59:03 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[21-Mar-2017 15:59:31 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[21-Mar-2017 16:00:07 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 2
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 2
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[21-Mar-2017 08:10:57 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[21-Mar-2017 08:10:57 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[21-Mar-2017 08:10:57 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[21-Mar-2017 08:10:57 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[21-Mar-2017 08:10:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/request_confirmation.php:46
+Stack trace:
+#0 /home/camayaco/public_html/admin/request_confirmation.php(46): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 2
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 2
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 8
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 11
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[21-Mar-2017 08:12:19 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/request_confirmation.php on line 13
+[21-Mar-2017 08:12:19 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[21-Mar-2017 08:12:19 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[21-Mar-2017 08:12:19 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[21-Mar-2017 08:12:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/request_confirmation.php:46
+Stack trace:
+#0 /home/camayaco/public_html/admin/request_confirmation.php(46): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/request_confirmation.php on line 46
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 2
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 2
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include_once(assets\connection\connection.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include_once(): Failed opening 'assets\connection\connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/distance_comparer.php on line 2
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(assets\navbar\include.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 8
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(assets\navbar\header.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 11
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(assets\navbar\navbar.php): failed to open stream: No such file or directory in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[21-Mar-2017 08:12:43 UTC] PHP Warning:  include(): Failed opening 'assets\navbar\navbar.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 13
+[21-Mar-2017 08:12:43 UTC] PHP Notice:  Undefined variable: dsn in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[21-Mar-2017 08:12:43 UTC] PHP Notice:  Undefined variable: user in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[21-Mar-2017 08:12:43 UTC] PHP Notice:  Undefined variable: pass in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[21-Mar-2017 08:12:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/camayaco/public_html/admin/worker_declined_confirmations.php:46
+Stack trace:
+#0 /home/camayaco/public_html/admin/worker_declined_confirmations.php(46): PDO->__construct('', NULL, NULL)
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/worker_declined_confirmations.php on line 46
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/update_amenity.php on line 76
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/update_amenity.php on line 76
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/update_amenity.php on line 82
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: type_description in /home/camayaco/public_html/admin/update_amenity.php on line 82
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/update_amenity.php on line 88
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/update_amenity.php on line 88
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/update_amenity.php on line 76
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/update_amenity.php on line 76
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/update_amenity.php on line 82
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: type_description in /home/camayaco/public_html/admin/update_amenity.php on line 82
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/update_amenity.php on line 88
+[21-Mar-2017 16:35:31 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/update_amenity.php on line 88
+[21-Mar-2017 16:36:48 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:36:48 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:37:41 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:37:41 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:38:10 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:38:10 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:38:28 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE amenity_id = '1'' at line 4' in /home/camayaco/public_html/admin/edit_amenity.php:18
+Stack trace:
+#0 /home/camayaco/public_html/admin/edit_amenity.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/edit_amenity.php on line 18
+[21-Mar-2017 16:39:26 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:39:26 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:39:33 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'camayaco_reservation.amenity' doesn't exist' in /home/camayaco/public_html/admin/edit_amenity.php:18
+Stack trace:
+#0 /home/camayaco/public_html/admin/edit_amenity.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/camayaco/public_html/admin/edit_amenity.php on line 18
+[21-Mar-2017 16:40:02 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:40:02 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:40:10 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:40:10 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:40:25 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:40:25 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:41:18 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:41:21 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 76
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 79
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: type_description in /home/camayaco/public_html/admin/edit_account.php on line 85
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_account.php on line 87
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 91
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: person_minimum in /home/camayaco/public_html/admin/edit_account.php on line 91
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 96
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: person_maximum in /home/camayaco/public_html/admin/edit_account.php on line 96
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 101
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/edit_account.php on line 101
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 106
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_sec_info in /home/camayaco/public_html/admin/edit_account.php on line 106
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 111
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 119
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 126
+[21-Mar-2017 16:43:46 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 134
+[21-Mar-2017 16:47:13 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 17:24:41 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service_category.php on line 84
+[21-Mar-2017 17:26:43 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service_category.php on line 84
+[21-Mar-2017 20:20:39 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service_category.php on line 84
+[21-Mar-2017 20:32:41 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[21-Mar-2017 20:32:57 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[21-Mar-2017 20:34:28 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[21-Mar-2017 20:34:58 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[21-Mar-2017 20:35:39 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service_category.php on line 84
+[21-Mar-2017 20:36:02 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service_category.php on line 84
+[21-Mar-2017 21:17:47 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service_category.php on line 84
+[21-Mar-2017 21:24:05 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[21-Mar-2017 21:26:10 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 21:34:26 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/update_amenity.php on line 84
+[21-Mar-2017 21:35:52 Asia/Manila] PHP Notice:  Undefined index: min in /home/camayaco/public_html/admin/add_amenity.php on line 29
+[21-Mar-2017 21:35:52 Asia/Manila] PHP Notice:  Undefined index: max in /home/camayaco/public_html/admin/add_amenity.php on line 30
+[21-Mar-2017 21:35:52 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/add_amenity.php on line 31
+[21-Mar-2017 21:35:52 Asia/Manila] PHP Notice:  Undefined index: sec_info in /home/camayaco/public_html/admin/add_amenity.php on line 32
+[21-Mar-2017 21:37:27 Asia/Manila] PHP Notice:  Undefined index: schedule_ID in /home/camayaco/public_html/admin/customer_view.php on line 83
+[21-Mar-2017 21:37:45 Asia/Manila] PHP Notice:  Undefined index: schedule_ID in /home/camayaco/public_html/admin/customer_view.php on line 83
+[21-Mar-2017 21:39:44 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/add_account.php on line 9
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 76
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 79
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: type_description in /home/camayaco/public_html/admin/edit_account.php on line 85
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_account.php on line 87
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 91
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: person_minimum in /home/camayaco/public_html/admin/edit_account.php on line 91
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 96
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: person_maximum in /home/camayaco/public_html/admin/edit_account.php on line 96
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 101
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/edit_account.php on line 101
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 106
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_sec_info in /home/camayaco/public_html/admin/edit_account.php on line 106
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 111
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 119
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 126
+[21-Mar-2017 21:39:49 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 134
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 76
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 79
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: type_description in /home/camayaco/public_html/admin/edit_account.php on line 85
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_account.php on line 87
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 91
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: person_minimum in /home/camayaco/public_html/admin/edit_account.php on line 91
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 96
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: person_maximum in /home/camayaco/public_html/admin/edit_account.php on line 96
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 101
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/edit_account.php on line 101
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 106
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_sec_info in /home/camayaco/public_html/admin/edit_account.php on line 106
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 111
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 119
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: type_name in /home/camayaco/public_html/admin/edit_account.php on line 126
+[21-Mar-2017 21:41:29 Asia/Manila] PHP Notice:  Undefined index: schedule_type_id in /home/camayaco/public_html/admin/edit_account.php on line 134
+[21-Mar-2017 21:50:48 Asia/Manila] PHP Notice:  Undefined index: min in /home/camayaco/public_html/admin/add_amenity.php on line 29
+[21-Mar-2017 21:50:48 Asia/Manila] PHP Notice:  Undefined index: max in /home/camayaco/public_html/admin/add_amenity.php on line 30
+[21-Mar-2017 21:50:48 Asia/Manila] PHP Notice:  Undefined index: type_price in /home/camayaco/public_html/admin/add_amenity.php on line 31
+[21-Mar-2017 21:50:48 Asia/Manila] PHP Notice:  Undefined index: sec_info in /home/camayaco/public_html/admin/add_amenity.php on line 32
+[21-Mar-2017 22:09:57 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[22-Mar-2017 07:23:30 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[22-Mar-2017 07:24:16 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service_category.php on line 84
+[22-Mar-2017 08:15:36 Asia/Manila] PHP Notice:  Undefined variable: error in /home/camayaco/public_html/admin/edit_service.php on line 84
+[22-Mar-2017 21:34:32 Asia/Manila] PHP Notice:  Undefined index: scheduleid in /home/camayaco/public_html/admin/approve_request.php on line 12
+[22-Mar-2017 21:34:40 Asia/Manila] PHP Notice:  Undefined index: scheduleid in /home/camayaco/public_html/admin/approve_request.php on line 12
+[22-Mar-2017 21:45:45 Asia/Manila] PHP Notice:  Undefined index: scheduleid in /home/camayaco/public_html/admin/approve_request.php on line 12
+[22-Mar-2017 21:45:54 Asia/Manila] PHP Notice:  Undefined index: scheduleid in /home/camayaco/public_html/admin/approve_request.php on line 12
+[22-Mar-2017 21:46:54 Asia/Manila] PHP Notice:  Undefined index: scheduleid in /home/camayaco/public_html/admin/approve_request.php on line 12
+[22-Mar-2017 21:47:58 Asia/Manila] PHP Notice:  Undefined index: scheduleid in /home/camayaco/public_html/admin/approve_request.php on line 12

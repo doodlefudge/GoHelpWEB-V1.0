@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Camara Server">
+    <serverData>
+      <paths name="Camara Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/public_html/admin" />
+            <excludedPath path="/public_html/camayacoast.ph" />
+            <excludedPath path="/public_html/testing" />
+            <excludedPath local="true" path="$PROJECT_DIR$/admin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/camayacoast.ph" />
+            <excludedPath local="true" path="$PROJECT_DIR$/testing" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

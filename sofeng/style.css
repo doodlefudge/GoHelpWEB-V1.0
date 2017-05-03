@@ -1,0 +1,128 @@
+/********************LOGIN****************************/
+
+.background-image {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
+  display: block;
+  background: url('images/home.jpg') repeat fixed;
+  width: 1370px;
+  height: 800px;
+margin:auto;
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: blur(10px);
+ 
+}
+
+
+.content {
+	margin-top:50px;
+  border-radius:25px;	
+  position: fixed;
+  left: 140px;
+  right: 0;
+  margin-left:270px;
+  z-index: 9999;
+  height:400px;
+  width:500px;
+ background: transparent url('images/menubar.png') repeat;
+}
+
+
+.top{
+		
+	margin-top:-33px;
+	background-color:#2a5b84;
+	height:90px;
+	border-radius:15px;
+	font-size:25pt;
+
+}
+
+.logo{
+margin:10px;
+border-radius: 10px;
+
+}
+#back{
+color:#FEFAE1; 
+
+}
+
+#back:hover{
+color:#2a5b84;
+
+}
+
+	
+.outer-div{
+padding: 20px;
+background-color:#FEFAE1;
+border: solid 3pxyellow;
+width: 1024px;
+height: 768px;
+margin:auto;
+margin-top: 15pt;
+border-radius: 10px;
+
+}
+
+body{
+background-color: #2a5b84;
+	width:750px;
+	margin-left: 130pt;
+	opacity: 0.1pt;
+	font-family: arial;
+	
+	
+
+}
+
+
+.table{
+height: 20%;
+border-radius: 5px;
+background:darkblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, blue, #FEFAE1); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #2a5b84, #FEFAE1); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #2a5b84 , #FEFAE1); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #2a5b84, #FEFAE1); /* Standard syntax (must be last) */
+	-webkit-filter: drop-shadow(8px 8px 10px gray); /* Chrome, Safari, Opera */
+    filter: drop-shadow(8px 8px 10px gray);
+}
+
+
+header{
+background-image: url('images/logo.jpg');
+ position: absolute;
+ width: 323px;
+ height: 140px;
+ margin: auto;
+ margin-left:2%;
+ 
+}
+
+.submit{
+border-radius: 5px;
+width: 70px;
+height: 30px;
+font-family: courier;
+
+
+
+}
+.submit:hover{
+background:darkblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, blue, #FEFAE1); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #2a5b84, #FEFAE1); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #2a5b84 , #FEFAE1); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #2a5b84, #FEFAE1); /* Standard syntax (must be last) */
+	-webkit-filter: drop-shadow(8px 8px 10px gray); /* Chrome, Safari, Opera */
+    filter: drop-shadow(8px 8px 10px gray);}
+	
+	

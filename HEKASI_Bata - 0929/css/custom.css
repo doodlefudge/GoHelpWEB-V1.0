@@ -1,0 +1,9 @@
+body {
+    padding-top: 60px; 
+    background-size:  cover;
+    background-repeat:  no-repeat;
+}
+.well {
+    background-color: rgba(245, 245, 245, 0.50);
+}
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Camayaco">
+    <serverData>
+      <paths name="Camayaco">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/admin" />
+            <excludedPath path="/testing" />
+            <excludedPath local="true" path="$PROJECT_DIR$/admin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/testing" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
